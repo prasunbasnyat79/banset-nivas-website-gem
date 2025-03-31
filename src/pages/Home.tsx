@@ -9,7 +9,7 @@ const Home = () => {
         {/* Hero Image */}
         <div className="absolute inset-0 z-0">
           <img
-            src="https://images.unsplash.com/photo-1518005020951-eccb494ad742"
+            src="house.jpg"
             alt="Banset Niwās"
             className="w-full h-full object-cover animate-fade-in"
           />

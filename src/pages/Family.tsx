@@ -15,25 +15,25 @@ const familyMembers: FamilyMember[] = [
     name: "Rudra Basnet",
     role: "Father",
     description: "Social worker and business owner with deep ties to the community.",
-    image: "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+    image: "father.PNG",
   },
   {
     name: "Ratna Basnet",
     role: "Mother",
     description: "Homemaker who has created a warm and loving environment for the family.",
-    image: "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+    image: "mother.PNG",
   },
   {
     name: "Doshim Basnet",
     role: "Sister",
     description: "MBBS doctor at Birat Medical Teaching Hospital, dedicated to patient care.",
-    image: "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+    image: "daughter.PNG",
   },
   {
     name: "Prasun Basnyat",
     role: "Son",
     description: "Pursuing a Bachelor's in Data Analytics at Northeastern University, Boston, USA.",
-    image: "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+    image: "son.PNG",
   },
 ];
 
@@ -46,7 +46,7 @@ const Family = () => {
           
           <div className="relative h-60 md:h-80 rounded-xl overflow-hidden my-8 max-w-4xl mx-auto">
             <img 
-              src="https://images.unsplash.com/photo-1472396961693-142e6e269027" 
+              src="family.jpg" 
               alt="Basnet Family" 
               className="w-full h-full object-cover"
             />

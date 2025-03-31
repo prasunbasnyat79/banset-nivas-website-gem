@@ -10,24 +10,28 @@ const Gallery = () => {
   
   const images = [
     {
-      src: "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+      src: "house.jpg",
       alt: "Banset Niwās Front View",
     },
     {
-      src: "https://images.unsplash.com/photo-1487958449943-2429e8be8625",
+      src: "house-image1.jpg",
       alt: "Banset Niwās Side View",
     },
     {
-      src: "https://images.unsplash.com/photo-1721322800607-8c38375eef04",
+      src: "house-image2.jpg",
       alt: "Living Room",
     },
     {
-      src: "https://images.unsplash.com/photo-1483058712412-4245e9b90334",
+      src: "house-image3.jpg",
       alt: "Study Room",
     },
     {
-      src: "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+      src: "house-image4.jpg",
       alt: "Garden View",
+    },
+    {
+      src: "house-image5.jpg",
+      alt: "Another View of Banset Niwās",
     },
   ];
 

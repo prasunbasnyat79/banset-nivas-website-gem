@@ -19,7 +19,7 @@ const About = () => {
                 
                 <div className="relative h-60 md:h-80 overflow-hidden rounded-xl my-8">
                   <img 
-                    src="https://images.unsplash.com/photo-1518005020951-eccb494ad742" 
+                    src="house.jpg" 
                     alt="Banset Niwās Front View" 
                     className="w-full h-full object-cover"
                   />
